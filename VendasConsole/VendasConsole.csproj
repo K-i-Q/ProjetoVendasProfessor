@@ -58,6 +58,7 @@
     <Compile Include="Views\CadastrarVendedor.cs" />
     <Compile Include="Views\CadastrarCliente.cs" />
     <Compile Include="Views\ListarProdutos.cs" />
+    <Compile Include="Views\ListarVendas.cs" />
     <Compile Include="Views\ListarVendedores.cs" />
     <Compile Include="Views\ListarClientes.cs" />
     <Compile Include="Views\Program.cs" />
